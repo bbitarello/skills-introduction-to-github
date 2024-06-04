@@ -35,3 +35,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# DON'T TRACK LARGE FILES!!!
+######
+input_files/
